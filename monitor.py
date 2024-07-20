@@ -7,6 +7,7 @@ from datetime import datetime
 import os
 import argparse
 import re
+import shutil
 
 # Parse command-line arguments
 parser = argparse.ArgumentParser(description='System Monitoring Script')
@@ -27,48 +28,55 @@ if args.debug:
     console_handler.setFormatter(logging.Formatter('%(asctime)s %(message)s'))
     logging.getLogger().addHandler(console_handler)
 
+# Function to execute a command in zsh and return the output
+def run_command_in_zsh(command):
+    try:
+        result = subprocess.check_output(['zsh', '-c', command], stderr=subprocess.STDOUT)
+        return result.decode('utf-8').strip()
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Command '{command}' failed with error: {e.output.decode('utf-8').strip()}")
+        return None
+
+# Print environment variables for debugging
+def print_env_vars():
+    for key, value in os.environ.items():
+        logging.debug(f"{key}={value}")
+
 # Function to ensure iStats is installed
 def ensure_istats_installed():
     try:
-        subprocess.check_output(["istats", "--version"])
-        logging.info("iStats is already installed.")
-    except FileNotFoundError:
-        logging.info("iStats not found. Installing iStats...")
-        try:
-            subprocess.check_call(["sudo", "gem", "install", "iStats"])
-            logging.info("iStats installed successfully.")
-        except subprocess.CalledProcessError as e:
-            logging.error(f"Error installing iStats: {e}")
+        print_env_vars()
+        test_output = run_command_in_zsh("istats all --value-only")
+        if test_output:
+            logging.info("iStats is already installed and functional.")
+        else:
+            logging.info("iStats not found. Installing iStats...")
+            install_output = run_command_in_zsh("sudo gem install iStats")
+            if install_output:
+                logging.info(f"iStats installed successfully: {install_output}")
     except Exception as e:
-        logging.error(f"Error checking iStats: {e}")
+        logging.error(f"Error checking or installing iStats: {e}")
 
 # Function to ensure all sensors are enabled
 def ensure_sensors_enabled():
     try:
-        # Check if any sensors are enabled
-        temp_output = subprocess.check_output(["istats", "all", "--value-only"]).decode('utf-8')
-        if not temp_output.strip():
+        sensors_output = run_command_in_zsh("istats all --value-only")
+        if sensors_output is None or not sensors_output.strip():
             logging.info("No sensors found, enabling all sensors.")
             enable_all_sensors()
         else:
             logging.info("Sensors are already enabled.")
-    except FileNotFoundError:
-        logging.warning("istats utility not found.")
     except Exception as e:
         logging.error(f"Error checking sensors: {e}")
 
 # Function to enable all sensors
 def enable_all_sensors():
     try:
-        # Scan for available sensors
-        scan_output = subprocess.check_output(["istats", "scan"]).decode('utf-8')
+        scan_output = run_command_in_zsh("istats scan")
         logging.debug(f"istats scan output:\n{scan_output}")
         
-        # Enable all sensors
-        enable_output = subprocess.check_output(["istats", "enable", "all"]).decode('utf-8')
+        enable_output = run_command_in_zsh("istats enable all")
         logging.debug(f"istats enable all output:\n{enable_output}")
-    except FileNotFoundError:
-        logging.warning("istats utility not found. Install it using 'sudo gem install iStats'.")
     except Exception as e:
         logging.error(f"Error enabling sensors: {e}")
 
@@ -89,7 +97,9 @@ def get_system_metrics():
 # Function to get temperature sensors using istats
 def get_temperature_sensors():
     try:
-        temp_output = subprocess.check_output(["istats", "all", "--value-only"]).decode('utf-8')
+        temp_output = run_command_in_zsh("istats all --value-only")
+        if temp_output is None:
+            return {}
         logging.debug(f"istats output:\n{temp_output}")
         
         # Extract temperature readings
@@ -110,9 +120,6 @@ def get_temperature_sensors():
             logging.debug(f"Skipping line: {line}")
         logging.debug(f"Temperature sensors: {sensors}")
         return sensors
-    except FileNotFoundError:
-        logging.warning("istats utility not found. Install it using 'sudo gem install iStats'.")
-        return {}
     except Exception as e:
         logging.error(f"Error getting temperature sensors: {e}")
         return {}
