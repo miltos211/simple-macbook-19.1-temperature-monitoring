@@ -1,0 +1,176 @@
+2024-07-20 22:26:59,414 iStats is already installed and functional.
+2024-07-20 22:26:59,681 Sensors are already enabled.
+2024-07-20 22:27:00,930 Error converting temperature value: 
+2024-07-20 22:27:00,931 Error converting temperature value: 
+2024-07-20 22:27:00,931 Error converting temperature value: unknown
+2024-07-20 22:27:00,931 Error converting temperature value: 
+2024-07-20 22:27:00,935 Timestamp: 2024-07-20 22:27:00, CPU Usage (%): 1.9, Memory Usage (%): 62.5, _CPU_Stats_ Temperature (°C): 35.56, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 37.44
+2024-07-20 22:27:12,276 Error converting temperature value: 
+2024-07-20 22:27:12,277 Error converting temperature value: 
+2024-07-20 22:27:12,277 Error converting temperature value: unknown
+2024-07-20 22:27:12,277 Error converting temperature value: 
+2024-07-20 22:27:12,279 Timestamp: 2024-07-20 22:27:12, CPU Usage (%): 9.5, Memory Usage (%): 57.4, _CPU_Stats_ Temperature (°C): 37.25, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 37.44
+2024-07-20 22:27:23,599 Error converting temperature value: 
+2024-07-20 22:27:23,600 Error converting temperature value: 
+2024-07-20 22:27:23,600 Error converting temperature value: unknown
+2024-07-20 22:27:23,600 Error converting temperature value: 
+2024-07-20 22:27:23,602 Timestamp: 2024-07-20 22:27:23, CPU Usage (%): 27.9, Memory Usage (%): 57.0, _CPU_Stats_ Temperature (°C): 38.13, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 37.44
+2024-07-20 22:27:35,070 Error converting temperature value: 
+2024-07-20 22:27:35,070 Error converting temperature value: 
+2024-07-20 22:27:35,070 Error converting temperature value: unknown
+2024-07-20 22:27:35,071 Error converting temperature value: 
+2024-07-20 22:27:35,072 Timestamp: 2024-07-20 22:27:35, CPU Usage (%): 14.3, Memory Usage (%): 61.4, _CPU_Stats_ Temperature (°C): 40.56, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 37.44
+2024-07-20 22:27:46,364 Error converting temperature value: 
+2024-07-20 22:27:46,364 Error converting temperature value: 
+2024-07-20 22:27:46,364 Error converting temperature value: unknown
+2024-07-20 22:27:46,364 Error converting temperature value: 
+2024-07-20 22:27:46,366 Timestamp: 2024-07-20 22:27:46, CPU Usage (%): 8.0, Memory Usage (%): 62.2, _CPU_Stats_ Temperature (°C): 43.38, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 36.56
+2024-07-20 22:27:57,790 Error converting temperature value: 
+2024-07-20 22:27:57,791 Error converting temperature value: 
+2024-07-20 22:27:57,791 Error converting temperature value: unknown
+2024-07-20 22:27:57,791 Error converting temperature value: 
+2024-07-20 22:27:57,795 Timestamp: 2024-07-20 22:27:57, CPU Usage (%): 20.6, Memory Usage (%): 62.6, _CPU_Stats_ Temperature (°C): 46.88, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 36.69
+2024-07-20 22:27:57,868 Potential heavy application detected: Baldur's Gate 3 (CPU: 299.8%, Memory: 1546043392 bytes)
+2024-07-20 22:28:09,125 Error converting temperature value: 
+2024-07-20 22:28:09,125 Error converting temperature value: 
+2024-07-20 22:28:09,125 Error converting temperature value: unknown
+2024-07-20 22:28:09,126 Error converting temperature value: 
+2024-07-20 22:28:09,127 Timestamp: 2024-07-20 22:28:09, CPU Usage (%): 13.7, Memory Usage (%): 64.1, _CPU_Stats_ Temperature (°C): 47.5, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 38.0
+2024-07-20 22:28:20,454 Error converting temperature value: 
+2024-07-20 22:28:20,454 Error converting temperature value: 
+2024-07-20 22:28:20,454 Error converting temperature value: unknown
+2024-07-20 22:28:20,455 Error converting temperature value: 
+2024-07-20 22:28:20,457 Timestamp: 2024-07-20 22:28:20, CPU Usage (%): 21.4, Memory Usage (%): 64.3, _CPU_Stats_ Temperature (°C): 49.88, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 38.19
+2024-07-20 22:28:31,917 Error converting temperature value: 
+2024-07-20 22:28:31,918 Error converting temperature value: 
+2024-07-20 22:28:31,918 Error converting temperature value: unknown
+2024-07-20 22:28:31,918 Error converting temperature value: 
+2024-07-20 22:28:31,920 Timestamp: 2024-07-20 22:28:31, CPU Usage (%): 69.4, Memory Usage (%): 65.4, _CPU_Stats_ Temperature (°C): 56.63, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 38.38
+2024-07-20 22:28:31,975 Potential heavy application detected: Baldur's Gate 3 (CPU: 465.2%, Memory: 1594359808 bytes)
+2024-07-20 22:28:43,388 Error converting temperature value: 
+2024-07-20 22:28:43,389 Error converting temperature value: 
+2024-07-20 22:28:43,389 Error converting temperature value: unknown
+2024-07-20 22:28:43,389 Error converting temperature value: 
+2024-07-20 22:28:43,392 Timestamp: 2024-07-20 22:28:43, CPU Usage (%): 44.8, Memory Usage (%): 65.5, _CPU_Stats_ Temperature (°C): 59.0, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 37.88
+2024-07-20 22:28:54,777 Error converting temperature value: 
+2024-07-20 22:28:54,777 Error converting temperature value: 
+2024-07-20 22:28:54,777 Error converting temperature value: unknown
+2024-07-20 22:28:54,777 Error converting temperature value: 
+2024-07-20 22:28:54,780 Timestamp: 2024-07-20 22:28:54, CPU Usage (%): 32.4, Memory Usage (%): 65.0, _CPU_Stats_ Temperature (°C): 59.5, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 39.31
+2024-07-20 22:29:06,173 Error converting temperature value: 
+2024-07-20 22:29:06,173 Error converting temperature value: 
+2024-07-20 22:29:06,173 Error converting temperature value: unknown
+2024-07-20 22:29:06,173 Error converting temperature value: 
+2024-07-20 22:29:06,175 Timestamp: 2024-07-20 22:29:06, CPU Usage (%): 35.1, Memory Usage (%): 66.1, _CPU_Stats_ Temperature (°C): 60.69, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 38.63
+2024-07-20 22:29:17,560 Error converting temperature value: 
+2024-07-20 22:29:17,560 Error converting temperature value: 
+2024-07-20 22:29:17,560 Error converting temperature value: unknown
+2024-07-20 22:29:17,561 Error converting temperature value: 
+2024-07-20 22:29:17,563 Timestamp: 2024-07-20 22:29:17, CPU Usage (%): 36.1, Memory Usage (%): 65.8, _CPU_Stats_ Temperature (°C): 63.0, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 38.94
+2024-07-20 22:29:29,062 Error converting temperature value: 
+2024-07-20 22:29:29,062 Error converting temperature value: 
+2024-07-20 22:29:29,062 Error converting temperature value: unknown
+2024-07-20 22:29:29,062 Error converting temperature value: 
+2024-07-20 22:29:29,065 Timestamp: 2024-07-20 22:29:29, CPU Usage (%): 36.5, Memory Usage (%): 65.7, _CPU_Stats_ Temperature (°C): 62.81, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 40.31
+2024-07-20 22:29:40,435 Error converting temperature value: 
+2024-07-20 22:29:40,436 Error converting temperature value: 
+2024-07-20 22:29:40,436 Error converting temperature value: unknown
+2024-07-20 22:29:40,436 Error converting temperature value: 
+2024-07-20 22:29:40,438 Timestamp: 2024-07-20 22:29:40, CPU Usage (%): 32.4, Memory Usage (%): 65.7, _CPU_Stats_ Temperature (°C): 63.63, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 39.63
+2024-07-20 22:29:40,490 Heavy application confirmed: Baldur's Gate 3 (CPU: 361.6%, Memory: 1789591552 bytes)
+2024-07-20 22:29:51,810 Error converting temperature value: 
+2024-07-20 22:29:51,810 Error converting temperature value: 
+2024-07-20 22:29:51,810 Error converting temperature value: unknown
+2024-07-20 22:29:51,810 Error converting temperature value: 
+2024-07-20 22:29:51,812 Timestamp: 2024-07-20 22:29:51, CPU Usage (%): 31.5, Memory Usage (%): 65.7, _CPU_Stats_ Temperature (°C): 65.38, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 39.94
+2024-07-20 22:29:51,865 Heavy application confirmed: Baldur's Gate 3 (CPU: 345.4%, Memory: 1794752512 bytes)
+2024-07-20 22:30:03,241 Error converting temperature value: 
+2024-07-20 22:30:03,242 Error converting temperature value: 
+2024-07-20 22:30:03,242 Error converting temperature value: unknown
+2024-07-20 22:30:03,242 Error converting temperature value: 
+2024-07-20 22:30:03,245 Timestamp: 2024-07-20 22:30:03, CPU Usage (%): 39.1, Memory Usage (%): 66.1, _CPU_Stats_ Temperature (°C): 65.75, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 41.31
+2024-07-20 22:30:03,301 Heavy application confirmed: Baldur's Gate 3 (CPU: 401.5%, Memory: 1809555456 bytes)
+2024-07-20 22:30:14,648 Error converting temperature value: 
+2024-07-20 22:30:14,648 Error converting temperature value: 
+2024-07-20 22:30:14,649 Error converting temperature value: unknown
+2024-07-20 22:30:14,649 Error converting temperature value: 
+2024-07-20 22:30:14,651 Timestamp: 2024-07-20 22:30:14, CPU Usage (%): 36.5, Memory Usage (%): 66.0, _CPU_Stats_ Temperature (°C): 67.0, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 40.63
+2024-07-20 22:30:14,710 Heavy application confirmed: Baldur's Gate 3 (CPU: 373.5%, Memory: 1908912128 bytes)
+2024-07-20 22:30:26,079 Error converting temperature value: 
+2024-07-20 22:30:26,079 Error converting temperature value: 
+2024-07-20 22:30:26,079 Error converting temperature value: unknown
+2024-07-20 22:30:26,080 Error converting temperature value: 
+2024-07-20 22:30:26,082 Timestamp: 2024-07-20 22:30:26, CPU Usage (%): 30.1, Memory Usage (%): 66.5, _CPU_Stats_ Temperature (°C): 69.31, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.0
+2024-07-20 22:30:26,137 Heavy application confirmed: Baldur's Gate 3 (CPU: 531.3%, Memory: 1920495616 bytes)
+2024-07-20 22:30:37,569 Error converting temperature value: 
+2024-07-20 22:30:37,569 Error converting temperature value: 
+2024-07-20 22:30:37,570 Error converting temperature value: unknown
+2024-07-20 22:30:37,570 Error converting temperature value: 
+2024-07-20 22:30:37,574 Timestamp: 2024-07-20 22:30:37, CPU Usage (%): 43.8, Memory Usage (%): 62.8, _CPU_Stats_ Temperature (°C): 68.63, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.31
+2024-07-20 22:30:37,643 Heavy application confirmed: Baldur's Gate 3 (CPU: 466.6%, Memory: 2199810048 bytes)
+2024-07-20 22:30:48,987 Error converting temperature value: 
+2024-07-20 22:30:48,988 Error converting temperature value: 
+2024-07-20 22:30:48,988 Error converting temperature value: unknown
+2024-07-20 22:30:48,988 Error converting temperature value: 
+2024-07-20 22:30:48,990 Timestamp: 2024-07-20 22:30:48, CPU Usage (%): 36.3, Memory Usage (%): 61.7, _CPU_Stats_ Temperature (°C): 69.31, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 41.63
+2024-07-20 22:30:49,050 Heavy application confirmed: Baldur's Gate 3 (CPU: 416.8%, Memory: 1908219904 bytes)
+2024-07-20 22:31:00,398 Error converting temperature value: 
+2024-07-20 22:31:00,398 Error converting temperature value: 
+2024-07-20 22:31:00,399 Error converting temperature value: unknown
+2024-07-20 22:31:00,399 Error converting temperature value: 
+2024-07-20 22:31:00,401 Timestamp: 2024-07-20 22:31:00, CPU Usage (%): 38.4, Memory Usage (%): 61.9, _CPU_Stats_ Temperature (°C): 67.81, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 41.94
+2024-07-20 22:31:00,461 Heavy application confirmed: Baldur's Gate 3 (CPU: 379.6%, Memory: 1933758464 bytes)
+2024-07-20 22:31:11,823 Error converting temperature value: 
+2024-07-20 22:31:11,824 Error converting temperature value: 
+2024-07-20 22:31:11,824 Error converting temperature value: unknown
+2024-07-20 22:31:11,824 Error converting temperature value: 
+2024-07-20 22:31:11,826 Timestamp: 2024-07-20 22:31:11, CPU Usage (%): 36.5, Memory Usage (%): 62.4, _CPU_Stats_ Temperature (°C): 67.75, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 43.13
+2024-07-20 22:31:11,889 Heavy application confirmed: Baldur's Gate 3 (CPU: 451.6%, Memory: 2028191744 bytes)
+2024-07-20 22:31:23,227 Error converting temperature value: 
+2024-07-20 22:31:23,228 Error converting temperature value: 
+2024-07-20 22:31:23,228 Error converting temperature value: unknown
+2024-07-20 22:31:23,228 Error converting temperature value: 
+2024-07-20 22:31:23,230 Timestamp: 2024-07-20 22:31:23, CPU Usage (%): 41.5, Memory Usage (%): 62.6, _CPU_Stats_ Temperature (°C): 69.19, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 43.31
+2024-07-20 22:31:23,290 Heavy application confirmed: Baldur's Gate 3 (CPU: 451.6%, Memory: 2059632640 bytes)
+2024-07-20 22:31:34,778 Error converting temperature value: 
+2024-07-20 22:31:34,778 Error converting temperature value: 
+2024-07-20 22:31:34,778 Error converting temperature value: unknown
+2024-07-20 22:31:34,779 Error converting temperature value: 
+2024-07-20 22:31:34,781 Timestamp: 2024-07-20 22:31:34, CPU Usage (%): 41.9, Memory Usage (%): 62.9, _CPU_Stats_ Temperature (°C): 68.75, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.5
+2024-07-20 22:31:34,836 Heavy application confirmed: Baldur's Gate 3 (CPU: 464.1%, Memory: 2097868800 bytes)
+2024-07-20 22:31:46,158 Error converting temperature value: 
+2024-07-20 22:31:46,158 Error converting temperature value: 
+2024-07-20 22:31:46,158 Error converting temperature value: unknown
+2024-07-20 22:31:46,158 Error converting temperature value: 
+2024-07-20 22:31:46,160 Timestamp: 2024-07-20 22:31:46, CPU Usage (%): 29.9, Memory Usage (%): 62.8, _CPU_Stats_ Temperature (°C): 68.69, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.69
+2024-07-20 22:31:46,215 Heavy application confirmed: Baldur's Gate 3 (CPU: 392.5%, Memory: 2089885696 bytes)
+2024-07-20 22:31:57,550 Error converting temperature value: 
+2024-07-20 22:31:57,550 Error converting temperature value: 
+2024-07-20 22:31:57,550 Error converting temperature value: unknown
+2024-07-20 22:31:57,550 Error converting temperature value: 
+2024-07-20 22:31:57,553 Timestamp: 2024-07-20 22:31:57, CPU Usage (%): 29.0, Memory Usage (%): 62.9, _CPU_Stats_ Temperature (°C): 68.88, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.81
+2024-07-20 22:31:57,604 Heavy application confirmed: Baldur's Gate 3 (CPU: 391.4%, Memory: 2090233856 bytes)
+2024-07-20 22:32:08,918 Error converting temperature value: 
+2024-07-20 22:32:08,918 Error converting temperature value: 
+2024-07-20 22:32:08,919 Error converting temperature value: unknown
+2024-07-20 22:32:08,919 Error converting temperature value: 
+2024-07-20 22:32:08,921 Timestamp: 2024-07-20 22:32:08, CPU Usage (%): 30.9, Memory Usage (%): 63.1, _CPU_Stats_ Temperature (°C): 68.56, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 42.94
+2024-07-20 22:32:08,974 Heavy application confirmed: Baldur's Gate 3 (CPU: 350.6%, Memory: 2107183104 bytes)
+2024-07-20 22:32:20,278 Error converting temperature value: 
+2024-07-20 22:32:20,278 Error converting temperature value: 
+2024-07-20 22:32:20,278 Error converting temperature value: unknown
+2024-07-20 22:32:20,278 Error converting temperature value: 
+2024-07-20 22:32:20,280 Timestamp: 2024-07-20 22:32:20, CPU Usage (%): 31.0, Memory Usage (%): 63.3, _CPU_Stats_ Temperature (°C): 68.81, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 44.19
+2024-07-20 22:32:20,333 Heavy application confirmed: Baldur's Gate 3 (CPU: 359.8%, Memory: 2138845184 bytes)
+2024-07-20 22:32:31,703 Error converting temperature value: 
+2024-07-20 22:32:31,703 Error converting temperature value: 
+2024-07-20 22:32:31,703 Error converting temperature value: unknown
+2024-07-20 22:32:31,703 Error converting temperature value: 
+2024-07-20 22:32:31,705 Timestamp: 2024-07-20 22:32:31, CPU Usage (%): 36.4, Memory Usage (%): 63.3, _CPU_Stats_ Temperature (°C): 70.13, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 44.31
+2024-07-20 22:32:31,760 Heavy application confirmed: Baldur's Gate 3 (CPU: 372.3%, Memory: 2094166016 bytes)
+2024-07-20 22:32:43,057 Error converting temperature value: 
+2024-07-20 22:32:43,057 Error converting temperature value: 
+2024-07-20 22:32:43,057 Error converting temperature value: unknown
+2024-07-20 22:32:43,057 Error converting temperature value: 
+2024-07-20 22:32:43,060 Timestamp: 2024-07-20 22:32:43, CPU Usage (%): 24.8, Memory Usage (%): 63.6, _CPU_Stats_ Temperature (°C): 70.06, _Fan_Stats_ Temperature (°C): 2.0, _Battery_Stats_ Temperature (°C): 91.0, _Extra_Stats_ Temperature (°C): 44.44
+2024-07-20 22:32:43,113 Heavy application confirmed: Baldur's Gate 3 (CPU: 330.1%, Memory: 2119553024 bytes)
