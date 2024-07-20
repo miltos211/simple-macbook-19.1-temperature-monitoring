@@ -1,0 +1,8 @@
+Coordinates: (430, 736), Label: fan 1 (left)
+Coordinates: (1158, 738), Label: fan 2 (right)
+Coordinates: (608, 709), Label: cpu
+Coordinates: (878, 704), Label: gpu
+Coordinates: (720, 952), Label: battery location 1
+Coordinates: (361, 1086), Label: battery location 2
+Coordinates: (1131, 1099), Label: battery location 3
+Coordinates: (759, 1143), Label: palmrest midle (also battery is bellow)
