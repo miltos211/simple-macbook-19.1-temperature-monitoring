@@ -127,6 +127,7 @@ A "heavy application" is defined as one that uses more than 50% CPU and 1GB of m
 ### Logging and Output
 
 The collected metrics are logged in a CSV file located in the `logs` directory. Additionally, metrics and detected heavy applications are printed to the terminal.
+Check logs_for_visualiser_test for example logs.
 
 ### Visualization
 
